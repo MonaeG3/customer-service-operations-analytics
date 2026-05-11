@@ -46,3 +46,10 @@ This project simulates how analysts use operational data to identify trends, imp
 - `service_operations_analysis.py`
 - `requirements.txt`
 - `generated_reports/operations_summary.csv`
+## Project Preview
+
+### Dataset Example
+![Dataset](images/dataset.png)
+
+### Python Analysis Output
+![Python Output](images/python-output.png)
