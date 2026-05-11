@@ -53,3 +53,14 @@ This project simulates how analysts use operational data to identify trends, imp
 
 ### Python Analysis Output
 ![Python Output](images/python-output.png)
+## Skills Demonstrated
+
+- Python
+- pandas
+- Data Analysis
+- Operational Analytics
+- Reporting
+- CSV Data Processing
+- Trend Analysis
+- Data Cleaning
+- Business Reporting
